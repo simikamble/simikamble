@@ -12,7 +12,7 @@
 
 <!-- SOCIAL & PROFESSIONAL BADGES -->
 <p align="center">
-  <a href="https://linkedin.com/in/simran-kamble">
+  <a href="https://www.linkedin.com/in/simran-kamble-2a9486274/">
     <img src="https://img.shields.io/badge/LINKEDIN-SIMRAN%20KAMBLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:simrankamble@example.com">
@@ -390,7 +390,7 @@ I am always interested in discussing **DevOps practices**, **Azure Cloud Infrast
 
 <div align="center">
 
-<a href="https://linkedin.com/in/simran-kamble">
+<a href="https://www.linkedin.com/in/simran-kamble-2a9486274/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Simran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 &nbsp;
